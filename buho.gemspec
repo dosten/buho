@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = 'diego@saintesteben.me'
   gem.description   = %q{HAML Watcher like SASS or CoffeeScript}
   gem.summary       = %q{HAML Watcher like SASS or CoffeeScript}
-  gem.homepage      = 'http://github.com/dii3g0/Buho'
+  gem.homepage      = 'http://github.com/dosten/buho'
 
   gem.files         = Dir['lib/*.rb'] + Dir['lib/*/*.rb']
   gem.files        += `git ls-files`.split($/)
