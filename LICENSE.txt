@@ -1,4 +1,4 @@
-Copyright (c) 2013 Diego Saint Esteben
+Copyright (c) 2015 Diego Saint Esteben
 
 MIT License
 
