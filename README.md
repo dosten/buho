@@ -2,6 +2,9 @@
 
 HAML Watcher like SASS and CoffeScript
 
+**NOTE**: This project is not maintained anymore. You can try to use it at your own
+risk, but don’t expect any support.
+
 ## Installation
 
 Add this line to your application's Gemfile:
